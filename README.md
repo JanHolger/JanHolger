@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align = "center">Hi I'm Jan😄</h1>
+<h3 align="center">Software Developer from Germany</h3>
 
-## Contributing
-I'm way too lazy to copy all those fancy buzzwords, stickers and badges from other peoples profiles so i'll just hope that somebody sends a PR and i can simply accept it :D
+
+
+
+🔭 I’m currently working on  
+
+
+🌱 I’m currently learning 
+
+👯 I’m looking to 
+
+📫 Connect With Me!: 
+
+⚡ Fun fact: 
+
+# Technologies I typically use:
